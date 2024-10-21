@@ -1,7 +1,7 @@
 import Redis from "ioredis";
 
 function getRedisClient() {
-  const redis = new Redis(process.env.REDIS_URL || "");
+  const redis = new Redis('redis://:supersecurepassword@212.2.241.65:6379');
   return redis;
 }
 
