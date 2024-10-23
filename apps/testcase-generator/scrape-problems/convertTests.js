@@ -10,7 +10,6 @@ function processProblemsDirectory(problemsDir) {
       const jsonFileName = `${problemSlug}.json`;
       const jsonFilePath = path.join(problemDir, 'tests', jsonFileName);
 
-    //   console.log(jsonFilePath,"asdasd");
       if (fs.existsSync(jsonFilePath)) {
         console.log(`Processing ${jsonFilePath}...`);
         try {
@@ -33,7 +32,6 @@ function splitJsonToInputOutput(jsonFilePath) {
   const problemDir = path.dirname(jsonFilePath);
   const inputDir = path.join(problemDir, 'inputs');
   const outputDir = path.join(problemDir, 'outputs');
-  console.log(inputDir);
 
   // Create or clear the inputs directory
   if (fs.existsSync(inputDir)) {
@@ -64,39 +62,46 @@ function splitJsonToInputOutput(jsonFilePath) {
 function convertToPlainText(obj) {
   let result = '';
 
-  if (
-    typeof obj === 'number' ||
-    typeof obj === 'string' ||
-    typeof obj === 'boolean'
-  ) {
-    // Scalar value
-    result += obj.toString();
-  } else if (Array.isArray(obj)) {
-    if (Array.isArray(obj[0])) {
-      // 2D array
-      const rows = obj.length;
-      const cols = obj[0].length;
-      result += `${rows} ${cols}\n`;
-      obj.forEach(row => {
-        result += row.map(el => el.toString()).join(' ') + '\n';
-      });
+  // Check if the value is an array using regex
+  const isArray = (value) => {
+    return Array.isArray(value) || (typeof value === 'string' && /^\[.*\]$/.test(value.trim()));
+  };
+
+  // Function to handle the output based on the type of object
+  const processValue = (value) => {
+    if (typeof value === 'number' || typeof value === 'boolean' || (typeof value === 'string' && !isArray(value))) {
+      // Scalar value (number, boolean, or non-array string)
+      return value.toString() + '\n';
+    } else if (isArray(value)) {
+      // Convert a string representation of an array to a JavaScript array if needed
+      const array = Array.isArray(value) ? value : JSON.parse(value);
+      if (Array.isArray(array[0])) {
+        // 2D array
+        const rows = array.length;
+        const cols = array[0].length;
+        let arrayResult = `${rows} ${cols}\n`;
+        array.forEach(row => {
+          arrayResult += row.map(el => el.toString()).join(' ') + '\n';
+        });
+        return arrayResult.trim() + '\n';
+      } else {
+        // 1D array
+        const length = array.length;
+        return `${length}\n${array.map(el => el.toString()).join(' ')}\n`;
+      }
     } else {
-      const length = obj.length;
-      result += `${length}\n`;
-      result += obj.map(el => el.toString()).join(' ');
+      // For objects, treat each key-value pair line by line
+      let objectResult = '';
+      for (const key of Object.keys(value)) {
+        objectResult += processValue(value[key]);
+      }
+      return objectResult.trim() + '\n';
     }
-  } else if (typeof obj === 'object' && obj !== null) {
-    for (const key of Object.keys(obj)) {
-      const valueStr = convertToPlainText(obj[key]);
-      result += valueStr + '\n';
-    }
-  } else {
-    result += '';
-  }
+  };
+
+  result += processValue(obj);
 
   return result.trim();
 }
 
 module.exports = processProblemsDirectory;
-
-

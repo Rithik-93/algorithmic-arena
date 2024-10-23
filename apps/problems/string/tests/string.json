@@ -1,0 +1,202 @@
+[
+  {
+    "input": "abcabcbb",
+    "output": 3
+  },
+  {
+    "input": "bbbbb",
+    "output": 1
+  },
+  {
+    "input": "pwwkew",
+    "output": 3
+  },
+  {
+    "input": "",
+    "output": 0
+  },
+  {
+    "input": "a",
+    "output": 1
+  },
+  {
+    "input": "au",
+    "output": 2
+  },
+  {
+    "input": "aab",
+    "output": 2
+  },
+  {
+    "input": "dvdf",
+    "output": 3
+  },
+  {
+    "input": "tmmzuxt",
+    "output": 5
+  },
+  {
+    "input": "abcdefghijklmnopqrstuvwxyz",
+    "output": 26
+  },
+  {
+    "input": "HoqwWlPtsQy",
+    "output": 11
+  },
+  {
+    "input": "b9Xws2esHO9HyjtoVLhRvuuv91sS1d9NZ2o3E5uWQxGKz67DrieAwGURmnZFjmD8tMDdJzuKl4SxdDFkReJc53x0Js9lTmR3EvM",
+    "output": 27
+  },
+  {
+    "input": "Mc8O2A9Xtx8HQw861KfagOe4mqHAx3DoLd6uLmtBGDWPFSnp6Nx1SEB72OXocHAvGcjMPuHXlZPpHRklIKNAbsg",
+    "output": 22
+  },
+  {
+    "input": "TPxQOO",
+    "output": 5
+  },
+  {
+    "input": "rbYRvoyLVa9mBSkyft0jfhJytr1abviCDvlkHjUaYEHd",
+    "output": 15
+  },
+  {
+    "input": "YONUXNzBLipWzjkicRZPmuHGn4vKZ62KC7h98CPztHK17k8MnUAKrnN4kVrlf",
+    "output": 18
+  },
+  {
+    "input": "uOHKOONL9bSaNil4ODboTZ5uPJ5mxCD4eAHRJGWUgZtBcX83HRee69WwhTRuEuGihd5QSkVqC3s4J2hccZDOhqqm1HgxBNByAg5h",
+    "output": 22
+  },
+  {
+    "input": "YyF2Jbi6EsQbZF0LZjqxJHHal0eqwKM0KajVvrbLnWijpejtqHz",
+    "output": 13
+  },
+  {
+    "input": "l9TMWhQmixPGiv6lgVRBRcvSWFGtghy7BAd1C3v2BK9i2Pq9yJ792yhgrYAnwe0AdDrsnBBZy0",
+    "output": 18
+  },
+  {
+    "input": "nPtHki8EbNTzc4J4URUyulywsnZeaLDRk5tkgDq1cSd0jLNlHoQrCHDQWFnOABMwH0IFgmLLcVxlkW6VaeuDu",
+    "output": 20
+  },
+  {
+    "input": "1L3EhZ0Cbsu7En4xlOFyo5ioGWo7Y4eN87bTLi55H",
+    "output": 19
+  },
+  {
+    "input": "8FopHruXmeSD65JGbxZp6XxzuAw1iAP5Fcf6TfVW",
+    "output": 19
+  },
+  {
+    "input": "v50FX0EyKcAjhk39A059Kgb6kYFi6cfFa8tpYtGFfwAvHUnlmXiE5YVdB6oTt6F7aaw7I7",
+    "output": 23
+  },
+  {
+    "input": "uX3TgpL2hL01AFS5F",
+    "output": 9
+  },
+  {
+    "input": "TBUPWcLPwu0UOttA8gFyFf3XV",
+    "output": 10
+  },
+  {
+    "input": "0uYseqPQkC",
+    "output": 10
+  },
+  {
+    "input": "eisX5dDs1OVqEdiuFgjYhskvdexYwXD24AiAkUYo3CdqHMDvLfYodnufDFr8AT9IMgoo4KOrdgUn7qLaqPOHkO",
+    "output": 16
+  },
+  {
+    "input": "OgyrhuA56BWubIp1crF7tE4bFIDgk8tNBnpcA32Er6bqQpqp4vGAWSRmbJuHpLb",
+    "output": 21
+  },
+  {
+    "input": "74d4Tj2LRorAa1yZdI2Srq1UAf",
+    "output": 15
+  },
+  {
+    "input": "27Y6QRP1IDAkWbSycVDBR0OtxokjWprLPXs68Te5HtqmFrYG3kakd",
+    "output": 28
+  },
+  {
+    "input": "SIF78lppm4CdAw0C63eZ1syEfRQGXAlgLrI21eHwSFsI1Mp2KmxuELtPQFWJBnWo7jWxbq1aCXZd2GC",
+    "output": 23
+  },
+  {
+    "input": "aaQnQEC0biAl9763KS1BhuP1fpOO6sxBFGU7nhXZIb0jbeHV2T9bffklDO7IyiJ1GYAuUa9SR08gRrfL7UwjlVp4ofWUq329mE7",
+    "output": 23
+  },
+  {
+    "input": "sOhF9IHPvpSadPWNQC5WFhSyJJn0tN0aKDt9oOFzo72JCRMZH3ShYRcIOsLNZErEubJCw6cehkvfNOi7Bcuc85",
+    "output": 19
+  },
+  {
+    "input": "A2WNlZ0Pl",
+    "output": 8
+  },
+  {
+    "input": "r1GJkQeNhzfZuA7a",
+    "output": 16
+  },
+  {
+    "input": "who9fq71Gu82jqGXWwYWcBLnWSxRgFE9EJyyShcgRQ",
+    "output": 13
+  },
+  {
+    "input": "qUinwxkVPNq7bHX0xuwaEqX0785nWqCLvLl",
+    "output": 15
+  },
+  {
+    "input": "zWgWllm4ryJ6R",
+    "output": 8
+  },
+  {
+    "input": "Evcivb5ALJZ89kSniGdrFt7L1Sa5pEcvIU35LkrSPaJZmjFMUSsPO1ymPncsjZq2rYxyAhrBnS3j4QmQtTYSBjfE7XTZReOMaBxW",
+    "output": 20
+  },
+  {
+    "input": "id1PXKQrZtWBTD1",
+    "output": 14
+  },
+  {
+    "input": "HbyPHijQQmkbATlmoYG1fy19sJjEl47IgoFVcYA4",
+    "output": 19
+  },
+  {
+    "input": "wK4g4haK2DUkAUlCDpyVVlcjoIkyGkxGBUZ3bDELo306QzDWg31OpfK6yLkFvQy8hNJdJR4igtTmnVSx0edPZ1QSnhj",
+    "output": 19
+  },
+  {
+    "input": "WA6Ob1gJN8xeJxdPLCsybXb3JHHEbLnhaszCwe3jNFCubq0VOuJ",
+    "output": 16
+  },
+  {
+    "input": "AdEmaLU8xaBmmtvF4b0KSJ8cbg4NWPDexN1V6uRoXj0UPDJChyuqeLRDCnexg9Aecsh0AQzqTuUb8nmXZMmm1SIOpyS",
+    "output": 19
+  },
+  {
+    "input": "XlABiyNBNpsDStZVUohysstXBFmW8I8pEcFXR1y2b72H0WrYaYwwCDg3t5upF1",
+    "output": 13
+  },
+  {
+    "input": "OefrcfPEJ0GCGc39NCHuLibme5lhV60TuULx",
+    "output": 20
+  },
+  {
+    "input": "drE9QEBc9BkrPbHroVixWHfrNo67OKAGBQpXsTB5LsZZ2rzIipzNepxl6A6NfyasIWyv0UNIjHfiRGygtZ7y1kwcfGhonLhdl",
+    "output": 21
+  },
+  {
+    "input": "i9QjCcsGf7VIYjDU5DzvVv3fKmqHy6P7PahCVgyk9",
+    "output": 13
+  },
+  {
+    "input": "ZPvQRkGDnhYN4F6vQaCUaFux",
+    "output": 16
+  },
+  {
+    "input": "1QfQf9UKiCMF1sVTdD3fTL2eOIpi87kuCKbI",
+    "output": 19
+  }
+]

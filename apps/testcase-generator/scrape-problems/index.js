@@ -63,8 +63,6 @@ async function getAllProblemDetails() {
     await generateTestCases(problemDetails, folderName);
     const directoryPath = path.join(__dirname,'..', '..', 'problems', folderName, 'tests', `${folderName}.js`)
     await executeJSFile(directoryPath);
-    const problemsDirectoryPath = path.join(__dirname, '..', '..', 'problems');
-    await processProblemsDirectory(problemsDirectoryPath);
     // console.log(problemFolders);
     
     if (!problemDetails) {
@@ -76,7 +74,8 @@ async function getAllProblemDetails() {
 
 (async () => {
   await getAllProblemDetails();
-  
+  const problemsDirectoryPath = path.join(__dirname, '..', '..', 'problems');
+  await processProblemsDirectory(problemsDirectoryPath);
 })();
 
 

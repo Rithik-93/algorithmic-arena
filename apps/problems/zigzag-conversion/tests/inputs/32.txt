@@ -1,0 +1,2 @@
+ThisIsALongStringWithNoSpaces
+1

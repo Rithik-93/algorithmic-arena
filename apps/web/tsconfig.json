@@ -5,7 +5,9 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    "skipLibCheck": true,
+    "noEmitOnError": false
   },
   "include": [
     "next-env.d.ts",

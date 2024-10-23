@@ -1,0 +1,202 @@
+[
+  {
+    "input": "I",
+    "output": 1
+  },
+  {
+    "input": "V",
+    "output": 5
+  },
+  {
+    "input": "X",
+    "output": 10
+  },
+  {
+    "input": "L",
+    "output": 50
+  },
+  {
+    "input": "C",
+    "output": 100
+  },
+  {
+    "input": "D",
+    "output": 500
+  },
+  {
+    "input": "M",
+    "output": 1000
+  },
+  {
+    "input": "DCCXIII",
+    "output": 713
+  },
+  {
+    "input": "VI",
+    "output": 6
+  },
+  {
+    "input": "MMXXIV",
+    "output": 2024
+  },
+  {
+    "input": "MMMDXXVII",
+    "output": 3527
+  },
+  {
+    "input": "MDCLXXV",
+    "output": 1675
+  },
+  {
+    "input": "CMX",
+    "output": 910
+  },
+  {
+    "input": "MMMCMLX",
+    "output": 3960
+  },
+  {
+    "input": "MCCCVII",
+    "output": 1307
+  },
+  {
+    "input": "CDIX",
+    "output": 409
+  },
+  {
+    "input": "MMXVI",
+    "output": 2016
+  },
+  {
+    "input": "MDCCCXLIII",
+    "output": 1843
+  },
+  {
+    "input": "MMMDCCCXVII",
+    "output": 3817
+  },
+  {
+    "input": "MCDV",
+    "output": 1405
+  },
+  {
+    "input": "MMMDXXXVIII",
+    "output": 3538
+  },
+  {
+    "input": "MMMCXCI",
+    "output": 3191
+  },
+  {
+    "input": "DCIII",
+    "output": 603
+  },
+  {
+    "input": "MCDVI",
+    "output": 1406
+  },
+  {
+    "input": "MCLIX",
+    "output": 1159
+  },
+  {
+    "input": "MCMIV",
+    "output": 1904
+  },
+  {
+    "input": "MMMDLXXVIII",
+    "output": 3578
+  },
+  {
+    "input": "MMDCXVI",
+    "output": 2616
+  },
+  {
+    "input": "MMMCCXCVII",
+    "output": 3297
+  },
+  {
+    "input": "MMCDXXXIV",
+    "output": 2434
+  },
+  {
+    "input": "MMCCXCIX",
+    "output": 2299
+  },
+  {
+    "input": "MMMDCLXIX",
+    "output": 3669
+  },
+  {
+    "input": "MCDLXXVII",
+    "output": 1477
+  },
+  {
+    "input": "MMMCMXLIV",
+    "output": 3944
+  },
+  {
+    "input": "MMCCLVIII",
+    "output": 2258
+  },
+  {
+    "input": "MMMDCCCVII",
+    "output": 3807
+  },
+  {
+    "input": "CDXXXV",
+    "output": 435
+  },
+  {
+    "input": "CDIV",
+    "output": 404
+  },
+  {
+    "input": "MMMDVIII",
+    "output": 3508
+  },
+  {
+    "input": "MMMCCCXXXIX",
+    "output": 3339
+  },
+  {
+    "input": "MMMDCCCXXV",
+    "output": 3825
+  },
+  {
+    "input": "MMMDCLXXXII",
+    "output": 3682
+  },
+  {
+    "input": "MCCXCIV",
+    "output": 1294
+  },
+  {
+    "input": "MCDXXV",
+    "output": 1425
+  },
+  {
+    "input": "MMMDCCLXXXIII",
+    "output": 3783
+  },
+  {
+    "input": "MMCDLXXIX",
+    "output": 2479
+  },
+  {
+    "input": "MCCCXCVIII",
+    "output": 1398
+  },
+  {
+    "input": "MMMCMXVII",
+    "output": 3917
+  },
+  {
+    "input": "MMMCXXVII",
+    "output": 3127
+  },
+  {
+    "input": "CCCXXI",
+    "output": 321
+  }
+]
