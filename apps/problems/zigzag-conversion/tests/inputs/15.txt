@@ -1,2 +1,0 @@
-MixedCase123AndNumbers
-5

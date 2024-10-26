@@ -1,0 +1,28 @@
+[
+  [
+    "Frank",
+    "frank56@yahoo.com",
+    "frank64@outlook.com",
+    "frank85@gmail.com",
+    "frank3@yahoo.com",
+    "frank71@example.com"
+  ],
+  [
+    "Mary",
+    "mary39@hotmail.com",
+    "mary85@gmail.com",
+    "mary53@yahoo.com"
+  ],
+  [
+    "David",
+    "david49@gmail.com",
+    "david5@hotmail.com",
+    "david85@gmail.com",
+    "david85@example.com",
+    "david78@gmail.com",
+    "david88@yahoo.com",
+    "david99@hotmail.com",
+    "david67@outlook.com",
+    "david63@yahoo.com"
+  ]
+]

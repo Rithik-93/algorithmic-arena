@@ -1,6 +1,7 @@
-Problem Name: "Longest Substring Without Repeating Characters"
-Function Name: lengthOfLongestSubstring
+Problem Name: "Serialize and Deserialize Binary Tree"
+Function Name: serializeanddeserializebinarytree
 Input Structure:
-Input Field: string arr
+Input Field: list<int> root
+
 Output Structure:
-Output Field: int result
+Output Field: list<int> result

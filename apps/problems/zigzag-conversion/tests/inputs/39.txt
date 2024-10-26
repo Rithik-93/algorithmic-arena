@@ -1,2 +1,0 @@
-PalindromeRacecar
-7

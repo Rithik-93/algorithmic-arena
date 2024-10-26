@@ -1,2 +1,0 @@
-VeryVeryLongStringToTestTheLimits
-3

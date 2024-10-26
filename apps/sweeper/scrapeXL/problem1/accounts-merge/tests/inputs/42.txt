@@ -1,0 +1,7 @@
+6 8
+Grace grace23@example.com grace48@example.com grace50@outlook.com grace58@gmail.com grace45@gmail.com grace21@yahoo.com david81@hotmail.com
+Bob bob75@hotmail.com bob79@hotmail.com bob6@outlook.com bob20@example.com
+Grace grace82@hotmail.com grace26@example.com grace66@gmail.com
+David david81@hotmail.com david49@hotmail.com david78@gmail.com
+Henry henry44@yahoo.com henry24@gmail.com henry82@hotmail.com henry4@hotmail.com henry28@example.com henry63@gmail.com henry21@gmail.com
+Alice alice22@hotmail.com alice98@example.com alice92@hotmail.com alice11@outlook.com alice48@yahoo.com alice6@gmail.com alice60@example.com alice75@gmail.com

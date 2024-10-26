@@ -1,0 +1,17 @@
+16 2
+Alice alice30@outlook.com
+Alice alice86@outlook.com
+Alice alice54@hotmail.com
+Alice alice39@hotmail.com
+Alice alice24@outlook.com
+Bob bob32@outlook.com
+Bob bob46@hotmail.com
+Bob bob72@outlook.com
+Bob bob59@outlook.com
+Bob bob2@outlook.com
+Bob bob25@example.com
+Bob bob92@yahoo.com
+Bob frank94@yahoo.com
+Frank frank30@hotmail.com
+Frank frank31@gmail.com
+Frank frank44@gmail.com

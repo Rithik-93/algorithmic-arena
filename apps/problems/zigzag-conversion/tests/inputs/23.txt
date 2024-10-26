@@ -1,2 +1,0 @@
-LeetCodeIsFun
-1

@@ -1,0 +1,10 @@
+9 5
+Alice alice94@hotmail.com alice80@gmail.com alice58@outlook.com alice28@gmail.com
+David david95@hotmail.com david77@hotmail.com david21@outlook.com david26@yahoo.com david81@gmail.com
+Eva eva49@gmail.com eva37@yahoo.com eva51@example.com eva78@gmail.com eva69@outlook.com
+Henry henry53@outlook.com henry85@outlook.com henry46@gmail.com henry29@gmail.com henry63@gmail.com
+Alice alice0@yahoo.com alice82@outlook.com alice53@gmail.com alice90@hotmail.com alice74@outlook.com alice89@yahoo.com
+Henry henry60@yahoo.com henry73@outlook.com henry17@example.com henry33@outlook.com henry53@outlook.com
+Frank frank86@gmail.com frank20@hotmail.com frank79@example.com frank45@example.com frank21@example.com
+David david80@example.com david52@outlook.com david94@yahoo.com david40@example.com david35@outlook.com david94@hotmail.com
+Charlie charlie1@hotmail.com charlie24@outlook.com charlie13@yahoo.com charlie74@hotmail.com charlie9@outlook.com charlie81@outlook.com charlie11@outlook.com charlie0@yahoo.com charlie92@example.com

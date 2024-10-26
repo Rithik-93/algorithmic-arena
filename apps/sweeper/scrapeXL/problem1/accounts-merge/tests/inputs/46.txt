@@ -1,0 +1,5 @@
+4 10
+Grace grace87@outlook.com grace83@example.com grace66@example.com grace10@hotmail.com grace19@yahoo.com grace23@outlook.com grace52@yahoo.com grace87@hotmail.com grace22@hotmail.com
+Frank frank38@example.com frank1@hotmail.com frank54@example.com frank74@example.com frank0@gmail.com frank8@yahoo.com frank17@hotmail.com frank45@example.com frank10@hotmail.com
+Eva eva56@outlook.com eva22@hotmail.com eva20@example.com eva2@gmail.com eva45@gmail.com grace87@outlook.com
+Charlie charlie33@example.com charlie38@example.com charlie17@hotmail.com charlie49@example.com

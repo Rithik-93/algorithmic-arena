@@ -7,6 +7,8 @@ import { db } from "../../db";
 import { getServerSession } from "next-auth";
 import { authOptions } from "../../lib/auth";
 import { rateLimit } from "../../lib/rateLimit";
+import { stdin } from "process";
+import { addAbortSignal } from "stream";
 
 const JUDGE0_URI = process.env.JUDGE0_URI || "https://judge.100xdevs.com";
 
@@ -97,23 +99,46 @@ export async function POST(req: NextRequest) {
     dbProblem.slug,
     submissionInput.data.languageId
   );
+  console.log(problem);
   problem.fullBoilerplateCode = problem.fullBoilerplateCode.replace(
     "##USER_CODE_HERE##",
     submissionInput.data.code
   );
-  const response = await axios.post(
-    `${JUDGE0_URI}/submissions/batch?base64_encoded=false`,
-    {
+
+const normalizeOutput = (output:any) => {
+  try {
+      return JSON.stringify(JSON.parse(output));
+  } catch {
+      return output.trim();
+  }
+};
+
+const response = await axios.post(
+  `${JUDGE0_URI}/submissions/batch?base64_encoded=false`,
+  {
       submissions: problem.inputs.map((input, index) => ({
+          language_id: LANGUAGE_MAPPING[submissionInput.data.languageId]?.judge0,
+          source_code: problem.fullBoilerplateCode.replace(
+              "##INPUT_FILE_INDEX##",
+              index.toString()
+          ),
+          stdin:problem.inputs[index],
+          expected_output: normalizeOutput(problem.outputs[index])
+      })),
+  }
+);
+  
+  console.log({
+    submissions: problem.inputs.map((input, index) => ({
         language_id: LANGUAGE_MAPPING[submissionInput.data.languageId]?.judge0,
         source_code: problem.fullBoilerplateCode.replace(
-          "##INPUT_FILE_INDEX##",
-          index.toString()
+            "##INPUT_FILE_INDEX##",
+            index.toString()
         ),
-        expected_output: problem.outputs[index],
-      })),
-    }
-  );
+        stdin:problem.inputs[index],
+        expected_output: normalizeOutput(problem.outputs[index])
+    })),
+}, response);
 
   const submission = await db.submission.create({
     data: {

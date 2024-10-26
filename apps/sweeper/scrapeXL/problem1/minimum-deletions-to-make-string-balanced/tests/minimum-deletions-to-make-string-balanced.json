@@ -1,0 +1,202 @@
+[
+  {
+    "input": "a",
+    "output": 0
+  },
+  {
+    "input": "b",
+    "output": 0
+  },
+  {
+    "input": "ab",
+    "output": 0
+  },
+  {
+    "input": "ba",
+    "output": 1
+  },
+  {
+    "input": "aababbab",
+    "output": 2
+  },
+  {
+    "input": "bbaaaaabb",
+    "output": 2
+  },
+  {
+    "input": "bbabbbbabbbabbabbababaaabaaaaababaaabbbabaabaabababbbabbabbababbba",
+    "output": 30
+  },
+  {
+    "input": "aababbabaab",
+    "output": 4
+  },
+  {
+    "input": "baababbabababbaaabababaa",
+    "output": 11
+  },
+  {
+    "input": "babaaaaababbaaabbabaabaababbaababbabbbbbbabbbbbaaba",
+    "output": 18
+  },
+  {
+    "input": "bbababaabbbbaaaaaababbaabaaabaaaababbaaaababbababbbbababababbabba",
+    "output": 25
+  },
+  {
+    "input": "aaabbbbabaaabbaabaabbaaababaaaa",
+    "output": 12
+  },
+  {
+    "input": "ba",
+    "output": 1
+  },
+  {
+    "input": "bababaabbbaaaaababbbabaabbbabb",
+    "output": 11
+  },
+  {
+    "input": "abbaabbaaaaabbbaababaabaabaabaabaabbbaaabbbbbbaababbbaaababaaaaababbaababbabbabbaaabbabbaabab",
+    "output": 41
+  },
+  {
+    "input": "babaabbabaabbbbbbaabbbaaaabbababaababbabbbbbbbbbababbaaababbbbbaabaaabaabbbabaa",
+    "output": 33
+  },
+  {
+    "input": "baabbaaaababaaaaabaaabbbabbbbaababaaabbbabaaabbabaabbaabbaabaaabbabb",
+    "output": 28
+  },
+  {
+    "input": "baaaaabbbaaabaabbaabbbaaaabbaaaaabbbbbababbabaaaabbbbbbabbbaabbaababaabbaa",
+    "output": 29
+  },
+  {
+    "input": "aababbbbbbbbabaaaabbaaabbababbaabbabbbaabaabaaabaaabaabaaaababbbabbabbababb",
+    "output": 32
+  },
+  {
+    "input": "aaabbbbaabbabbaabbaabbbbaaabbababbbaaaabababbbabaaaaaabba",
+    "output": 26
+  },
+  {
+    "input": "bbabbbabaaaaabababbbabbbaabababbbbaabbab",
+    "output": 16
+  },
+  {
+    "input": "ababbaababbabbaaaaababbaaabbbbbaabaabbabaaaababbbbabbbabbaabaababbaaabaabaabbbbaabbbbabbaabaababbbaaabbba",
+    "output": 47
+  },
+  {
+    "input": "aabbbaabbbbbbbbaabbbabbbbbbaaaaababaabbabbbabaababababaabbbbaaabbbabaa",
+    "output": 28
+  },
+  {
+    "input": "aaaababbbbbbabbaaaabaababaabaaababaaaabaabbbaabbbabaaaaabbbbaaa",
+    "output": 26
+  },
+  {
+    "input": "babbbbababbbbbbbaaaabbaab",
+    "output": 9
+  },
+  {
+    "input": "baaabbbabbabbabaabbaaaabbabbbaaaaaabbbbbbaa",
+    "output": 18
+  },
+  {
+    "input": "aaaabaababbabaaaaabbbabababaaaaaababbbbbbbbbabaaababbabbbbb",
+    "output": 18
+  },
+  {
+    "input": "abbbaababbaabaaaaaabababbbaaaaaabbabbbbbbaabbabbbbabaa",
+    "output": 19
+  },
+  {
+    "input": "bbbaababaabbbbabbbbbbaaabbbbbabaabaabbaabbaaabbaaababbabbabbababbbaabababbbaaaaaaaaaababbbaabbaaaaaabbb",
+    "output": 50
+  },
+  {
+    "input": "bbababaabaaaabaababaaaaaabbabbabbbabbbbbbbbaabbaabbaaaabbbb",
+    "output": 19
+  },
+  {
+    "input": "aabaabaaaabbbbbbbbaabbaaabababbaabbbbaabaabbbbaabbababbb",
+    "output": 19
+  },
+  {
+    "input": "baaaabbaaabbbaabbabbabaaaabaaabbbaaabbbbbbabbaaabbbbabbbababaabbbbbaaabbbaababbbaabbbababbbbaab",
+    "output": 36
+  },
+  {
+    "input": "abbaaaaaaabbbaabaaaaabbabaaaaabbbbabaabbbabababbaabbabbaabbbbabbaaaabaabbbbbbaabbbabbabbaaabbbbaabab",
+    "output": 37
+  },
+  {
+    "input": "bbabaababaaabaabbaaabbaaaaabbbbaaababaabbababba",
+    "output": 19
+  },
+  {
+    "input": "babbaabbbbbaabaababbbaa",
+    "output": 10
+  },
+  {
+    "input": "abbababbbaababaabbbabbbaabaaabaaabaaaabaabababbbaababaaaaabaabaaaaaabbbab",
+    "output": 28
+  },
+  {
+    "input": "aaabaaa",
+    "output": 1
+  },
+  {
+    "input": "babaaa",
+    "output": 2
+  },
+  {
+    "input": "aaababbbbababbbbaabbbbababaaaaaabbbbbbbbbbbaaabaaababbab",
+    "output": 21
+  },
+  {
+    "input": "babbbaaabaa",
+    "output": 5
+  },
+  {
+    "input": "aaaababbabbb",
+    "output": 2
+  },
+  {
+    "input": "abaaabaabbaaaababaaaabbaaaaaabbabaaababaababbababaabaaababbabbbbabbbbaabaaaabaabbb",
+    "output": 30
+  },
+  {
+    "input": "abaababbabaaaaabbabaaabbaabaabbbbabbaaaaaaaabbabbbabbabbbaba",
+    "output": 22
+  },
+  {
+    "input": "aaabbaaaababaababaabbbaaabbbabbbbbababababbaabaabaabbabbbbaabbabbabbbabaaaabaaababbbaaaababbbb",
+    "output": 39
+  },
+  {
+    "input": "aaaabbaabbbaabab",
+    "output": 5
+  },
+  {
+    "input": "bababbbbbaaaabaabbaaaaaaababbbaaabaaabbabaabababbabb",
+    "output": 21
+  },
+  {
+    "input": "baaabb",
+    "output": 1
+  },
+  {
+    "input": "aaabababaaaaaaababbbabba",
+    "output": 6
+  },
+  {
+    "input": "bbbbaaaabaababbbbbabaababbbbbabaaaabaaaabbbbbbaaabbaabbbaabaabaababbbb",
+    "output": 31
+  },
+  {
+    "input": "bbabaaabbabaabbbaababbbaaaabbbbbbaaaababababababbbbaaab",
+    "output": 25
+  }
+]

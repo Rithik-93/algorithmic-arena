@@ -1,0 +1,10 @@
+9 4
+John john13@gmail.com john51@hotmail.com john39@example.com
+Bob bob57@example.com bob8@yahoo.com bob22@gmail.com bob53@hotmail.com
+Eva eva63@gmail.com eva44@outlook.com eva76@yahoo.com eva69@outlook.com
+Mary mary74@yahoo.com mary25@gmail.com mary62@gmail.com
+John john39@hotmail.com john5@yahoo.com john48@example.com john37@example.com john54@example.com john73@example.com john17@example.com john72@hotmail.com john37@outlook.com
+Henry henry56@yahoo.com henry43@hotmail.com henry17@gmail.com henry17@outlook.com henry20@yahoo.com henry6@outlook.com henry44@example.com henry53@hotmail.com
+David david52@outlook.com david24@example.com david75@gmail.com
+Charlie charlie31@gmail.com charlie59@hotmail.com charlie3@hotmail.com charlie54@outlook.com charlie91@yahoo.com
+Frank frank51@gmail.com frank14@gmail.com frank21@hotmail.com

@@ -1,0 +1,35 @@
+[
+  [
+    "Bob",
+    "bob6@gmail.com",
+    "bob16@outlook.com",
+    "bob67@outlook.com",
+    "bob75@hotmail.com",
+    "bob70@hotmail.com",
+    "bob14@example.com",
+    "bob27@yahoo.com"
+  ],
+  [
+    "Charlie",
+    "charlie14@outlook.com",
+    "charlie57@example.com",
+    "charlie37@example.com",
+    "bob51@hotmail.com"
+  ],
+  [
+    "Eva",
+    "eva49@outlook.com",
+    "eva66@outlook.com",
+    "eva79@hotmail.com"
+  ],
+  [
+    "Bob",
+    "bob51@hotmail.com",
+    "bob1@gmail.com",
+    "bob2@yahoo.com",
+    "bob26@gmail.com",
+    "bob60@outlook.com",
+    "bob6@hotmail.com",
+    "bob32@example.com"
+  ]
+]

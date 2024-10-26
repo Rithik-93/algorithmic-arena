@@ -1,0 +1,36 @@
+[
+  [
+    "Henry",
+    "henry48@example.com",
+    "henry16@outlook.com",
+    "henry89@gmail.com"
+  ],
+  [
+    "John",
+    "john58@outlook.com",
+    "john87@outlook.com",
+    "john26@outlook.com",
+    "john89@yahoo.com",
+    "john35@gmail.com",
+    "john39@outlook.com",
+    "john12@yahoo.com"
+  ],
+  [
+    "Charlie",
+    "charlie41@outlook.com",
+    "charlie78@yahoo.com"
+  ],
+  [
+    "John",
+    "john22@gmail.com",
+    "john28@example.com",
+    "john57@example.com",
+    "john93@example.com",
+    "john9@hotmail.com"
+  ],
+  [
+    "Frank",
+    "frank89@gmail.com",
+    "frank92@hotmail.com"
+  ]
+]

@@ -1,0 +1,10 @@
+9 10
+Charlie charlie33@yahoo.com charlie65@example.com charlie5@yahoo.com charlie69@gmail.com charlie77@outlook.com charlie38@gmail.com charlie5@outlook.com charlie54@example.com charlie29@gmail.com
+Bob bob78@outlook.com bob96@hotmail.com
+David david85@hotmail.com david67@yahoo.com david31@outlook.com david84@gmail.com david25@yahoo.com david67@gmail.com david45@yahoo.com david45@gmail.com
+Bob bob99@example.com bob50@example.com bob9@outlook.com
+John john87@example.com john61@yahoo.com john85@gmail.com john47@hotmail.com john51@gmail.com john60@hotmail.com john33@outlook.com
+Bob bob55@outlook.com bob3@yahoo.com bob58@hotmail.com bob73@yahoo.com bob84@outlook.com
+Mary mary64@outlook.com mary20@outlook.com mary41@outlook.com mary45@gmail.com mary74@outlook.com mary56@gmail.com mary79@yahoo.com mary74@yahoo.com
+Grace grace53@gmail.com grace64@outlook.com grace58@outlook.com grace70@outlook.com grace48@outlook.com
+John john23@example.com john77@gmail.com john69@hotmail.com john95@gmail.com john65@outlook.com john36@hotmail.com john28@outlook.com john46@yahoo.com john87@example.com

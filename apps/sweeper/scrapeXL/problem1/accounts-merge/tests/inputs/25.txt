@@ -1,0 +1,9 @@
+8 4
+Frank frank3@example.com frank88@yahoo.com frank85@example.com
+Henry henry13@outlook.com henry59@example.com henry15@yahoo.com henry30@outlook.com henry44@hotmail.com henry63@hotmail.com henry69@gmail.com henry75@hotmail.com henry79@yahoo.com
+Henry henry79@yahoo.com henry13@outlook.com henry84@yahoo.com henry35@hotmail.com henry63@yahoo.com henry36@hotmail.com
+John john94@outlook.com john86@hotmail.com john17@outlook.com
+Charlie charlie76@hotmail.com charlie13@hotmail.com charlie35@hotmail.com charlie60@outlook.com charlie22@yahoo.com charlie12@hotmail.com charlie85@outlook.com
+David david86@example.com david47@gmail.com
+Grace grace78@hotmail.com grace37@outlook.com grace73@hotmail.com grace62@yahoo.com grace59@yahoo.com grace78@yahoo.com
+Henry henry17@outlook.com henry97@yahoo.com henry12@outlook.com henry36@example.com henry2@yahoo.com

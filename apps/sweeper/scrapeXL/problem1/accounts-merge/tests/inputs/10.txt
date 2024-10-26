@@ -1,0 +1,9 @@
+8 5
+Alice alice95@example.com alice80@outlook.com alice80@example.com alice44@yahoo.com
+Mary mary35@example.com mary79@example.com mary80@yahoo.com mary11@hotmail.com mary24@yahoo.com alice95@example.com
+John john30@yahoo.com john76@outlook.com john93@gmail.com john9@hotmail.com john3@gmail.com john82@hotmail.com john83@example.com john70@example.com
+Grace grace50@outlook.com grace28@hotmail.com grace2@gmail.com grace75@hotmail.com grace52@yahoo.com
+David david63@hotmail.com david73@hotmail.com david30@gmail.com david70@outlook.com david72@gmail.com david29@outlook.com david76@yahoo.com david34@gmail.com
+David david90@example.com david2@example.com
+Alice alice76@outlook.com alice18@yahoo.com alice54@example.com alice80@example.com alice25@example.com alice27@example.com alice15@yahoo.com alice22@gmail.com alice24@hotmail.com
+Eva eva45@outlook.com eva68@yahoo.com eva34@example.com eva2@gmail.com eva66@hotmail.com eva53@hotmail.com
